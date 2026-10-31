@@ -1,0 +1,18 @@
+[
+  { "id": 1, "name": "Wireless Noise-Cancelling Headphones", "category": "Electronics", "price": 7499, "originalPrice": 9999, "rating": 4.6, "imageUrl": "https://picsum.photos/seed/shopnest-headphones/400/300" },
+  { "id": 2, "name": "Smart Fitness Watch", "category": "Electronics", "price": 3299, "originalPrice": 4999, "rating": 4.3, "imageUrl": "https://picsum.photos/seed/shopnest-watch/400/300" },
+  { "id": 3, "name": "Portable Bluetooth Speaker", "category": "Electronics", "price": 1899, "originalPrice": 2499, "rating": 4.4, "imageUrl": "https://picsum.photos/seed/shopnest-speaker/400/300" },
+  { "id": 4, "name": "Mechanical Gaming Keyboard", "category": "Electronics", "price": 2799, "originalPrice": 3599, "rating": 4.5, "imageUrl": "https://picsum.photos/seed/shopnest-keyboard/400/300" },
+  { "id": 5, "name": "Classic Cotton T-Shirt", "category": "Clothing", "price": 499, "originalPrice": 899, "rating": 4.1, "imageUrl": "https://picsum.photos/seed/shopnest-tshirt/400/300" },
+  { "id": 6, "name": "Slim Fit Denim Jeans", "category": "Clothing", "price": 1399, "originalPrice": 2199, "rating": 4.2, "imageUrl": "https://picsum.photos/seed/shopnest-jeans/400/300" },
+  { "id": 7, "name": "Hooded Winter Jacket", "category": "Clothing", "price": 2499, "originalPrice": 3999, "rating": 4.5, "imageUrl": "https://picsum.photos/seed/shopnest-jacket/400/300" },
+  { "id": 8, "name": "Linen Summer Shirt", "category": "Clothing", "price": 999, "originalPrice": 1499, "rating": 4.0, "imageUrl": "https://picsum.photos/seed/shopnest-shirt/400/300" },
+  { "id": 9, "name": "Running Sneakers", "category": "Footwear", "price": 2299, "originalPrice": 3299, "rating": 4.4, "imageUrl": "https://picsum.photos/seed/shopnest-sneakers/400/300" },
+  { "id": 10, "name": "Leather Formal Shoes", "category": "Footwear", "price": 2999, "originalPrice": 4499, "rating": 4.3, "imageUrl": "https://picsum.photos/seed/shopnest-formal/400/300" },
+  { "id": 11, "name": "Comfort Flip Flops", "category": "Footwear", "price": 349, "originalPrice": 599, "rating": 3.9, "imageUrl": "https://picsum.photos/seed/shopnest-flipflops/400/300" },
+  { "id": 12, "name": "Trekking Boots", "category": "Footwear", "price": 3499, "originalPrice": 4999, "rating": 4.6, "imageUrl": "https://picsum.photos/seed/shopnest-boots/400/300" },
+  { "id": 13, "name": "Atomic Habits (Paperback)", "category": "Books", "price": 399, "originalPrice": 599, "rating": 4.8, "imageUrl": "https://picsum.photos/seed/shopnest-book1/400/300" },
+  { "id": 14, "name": "The Psychology of Money", "category": "Books", "price": 349, "originalPrice": 499, "rating": 4.7, "imageUrl": "https://picsum.photos/seed/shopnest-book2/400/300" },
+  { "id": 15, "name": "JavaScript: The Good Parts", "category": "Books", "price": 549, "originalPrice": 799, "rating": 4.4, "imageUrl": "https://picsum.photos/seed/shopnest-book3/400/300" },
+  { "id": 16, "name": "Clean Code Handbook", "category": "Books", "price": 649, "originalPrice": 899, "rating": 4.6, "imageUrl": "https://picsum.photos/seed/shopnest-book4/400/300" }
+]

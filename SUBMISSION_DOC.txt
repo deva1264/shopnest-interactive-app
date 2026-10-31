@@ -1,0 +1,6 @@
+Learner Name: <your full name>
+Batch Code: <your batch code>
+Assignment Number & Name: Module End Assignment 2 — ShopNest Interactive App (JavaScript Module End)
+GitHub Repository Link: https://github.com/<your-username>/shopnest-interactive-app
+
+(Optional live demo: https://<your-username>.github.io/shopnest-interactive-app/)
